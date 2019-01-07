@@ -18,9 +18,3 @@ or
 ```
 git add
 ```
-
-or
-
-```
-git reset
-```
