@@ -12,3 +12,9 @@ or
 ```
 git commit
 ```
+
+or
+
+```
+git add
+```
